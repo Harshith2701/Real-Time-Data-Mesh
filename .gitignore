@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/
+*.sql
+**/.DS_Store # This catches .DS_Store in all folders
